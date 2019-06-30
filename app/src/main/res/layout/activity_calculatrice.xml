@@ -22,17 +22,15 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:hint="Votre nombre 1"
+        android:hint="Votre nombre 2"
         android:inputType="number" />
 
-    <TextView
-        android:id="@+id/resultat"
+    <Button
+        android:id="@+id/effacer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:textSize="35dp"
-        android:textColor="#000"
-        android:text="Résultat" />
+        android:text="Effacer" />
 
     <Button
         android:id="@+id/addition"
@@ -61,4 +59,5 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:text="Division" />
+
 </LinearLayout>

@@ -7,8 +7,17 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_home">Accueil</string>
     <string name="menu_gallery">Montant TVA</string>
-    <string name="menu_slideshow">Color</string>
+    <string name="menu_slideshow">Calculatrice</string>
     <string name="menu_tools">A propos...</string>
+
+    <string name="hello">Bienvenue sur mon application</string>
+    <string name="hello1">Dans mon appli vous trouverez :</string>
+    <string name="hello11">- Un menu</string>
+    <string name="hello2">- Une calculatrice By Julien (+ utilisation de popop)</string>
+    <string name="hello3">- Un calcul de TVA</string>
+    <string name="hello5">- Le bouton contact en cours de développement</string>
+    <string name="hello4">Bonne navigation</string>
 </resources>
+
